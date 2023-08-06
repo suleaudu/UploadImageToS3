@@ -26,7 +26,7 @@ const MAX_IMAGE_SIZE = 1000000
 /* ENTER YOUR ENDPOINT HERE
    FILES UPLOADED TO MY ENDPOINT ARE AUTOMATICALLY DELETED EVERY FEW HOURS */
 
-const API_ENDPOINT = 'https://bjfn0jhqua.execute-api.us-east-2.amazonaws.com/default/serverless-lambda-syl'
+const API_ENDPOINT = 'https://gukv6ynpri.execute-api.us-east-2.amazonaws.com/default/sylvesterr-serverless'
 
 export default {
   name: 'app',
